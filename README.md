@@ -4,7 +4,7 @@ Telegram Bot to Request Content and Give Feedback
 ## Deployment
 ### Heroku
 #### Use This Button to Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?=template https://github.com/Doctorstra/Feedback-and-Request-Bot-TG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Doctorstra/Feedback-and-Request-Bot-TG)
 
 ## Variables
 ### *Compulsory Variables*
